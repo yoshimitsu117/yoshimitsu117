@@ -6,7 +6,7 @@ Backend Developer hailing from Kolkata.</br>
 <a href="https://www.linkedin.com/in/siddharth-majhi/">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png"
        alt="Linked In Link"
-       style="height:42px;width:42px"
+       style="height:10px;width:10px"
       >
   </a>
 <!--![LinkedIn](https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png)
