@@ -5,15 +5,29 @@ Backend Developer hailing from Kolkata.</br>
 📫 You can find me on: </br>
 
 <a href="https://www.linkedin.com/in/siddharth-majhi/">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png"
+  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_linkedin_1807540.png"
        alt="Linked In Link"
        height="50"
        width="50"
       >
   </a>
-  <a href="https://www.linkedin.com/in/siddharth-majhi/">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png"
-       alt="Linked In Link"
+  <a href="https://www.codechef.com/users/siddharthmajhy">
+  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/cc_icon.jpg"
+       alt="Codechef Link"
+       height="50"
+       width="50"
+      >
+  </a>
+  <a href="https://www.hackerrank.com/yoshimitsu_sword">
+  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/hr_icon.png"
+       alt="Hackerrank Link"
+       height="50"
+       width="50"
+      >
+  </a>
+  <a href="https://www.hackerrank.com/yoshimitsu_sword">
+  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/dicord_icon.png"
+       alt="Discord Link"
        height="50"
        width="50"
       >
