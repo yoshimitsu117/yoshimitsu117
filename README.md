@@ -44,7 +44,7 @@ Backend Developer hailing from Kolkata.</br>
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://www.hackerrank.com/yoshimitsu_sword">
+  <a href="https://discord.com/channels/702952286871224350/702952286871224353">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/dicord_icon.png"
        alt="Discord Link"
        height="50"
