@@ -2,12 +2,20 @@
 Backend Developer hailing from Kolkata.</br>
 🔭 I’m currently working on integrating ElasticSearch with SpringBoot for incorporating faster search without any hassle.</br>
 💬 Would be willing to help on queries relating to stream api,Lambda Expressions,class,objects or anything related to Core Java.Apart from this would like to discuss on topics relating to microservices.</br>
-📫 You can find me on: 
+📫 You can find me on: </br>
+
 <a href="https://www.linkedin.com/in/siddharth-majhi/">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png"
        alt="Linked In Link"
-       height="40"
-       width="40"
+       height="50"
+       width="50"
+      >
+  </a>
+  <a href="https://www.linkedin.com/in/siddharth-majhi/">
+  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png"
+       alt="Linked In Link"
+       height="50"
+       width="50"
       >
   </a>
 <!--![LinkedIn](https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_51-linkedin_104452.png)
