@@ -11,6 +11,11 @@ Backend Developer hailing from Kolkata.</br>
        width="50"
       >
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href="https://www.codechef.com/users/siddharthmajhy">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/cc_icon.jpg"
        alt="Codechef Link"
@@ -18,6 +23,11 @@ Backend Developer hailing from Kolkata.</br>
        width="50"
       >
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/yoshimitsu_sword">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/hr_icon.png"
        alt="Hackerrank Link"
@@ -25,6 +35,11 @@ Backend Developer hailing from Kolkata.</br>
        width="50"
       >
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/yoshimitsu_sword">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/dicord_icon.png"
        alt="Discord Link"
