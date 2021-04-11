@@ -3,8 +3,8 @@ Backend Developer hailing from Kolkata.</br>
 🔭 I’m currently working on integrating ElasticSearch with SpringBoot for incorporating faster search without any hassle.</br>
 💬 Would be willing to help on queries relating to stream api,Lambda Expressions,class,objects or anything related to Core Java.Apart from this would like to discuss on topics relating to microservices.</br>
 📫 You can find me on: 
-
-
+![LinkedIn](https://www.iconfinder.com/icons/104452/linkedin_icon)
+[Linked In](https://www.linkedin.com/in/siddharth-majhi/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshimitsu117&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
