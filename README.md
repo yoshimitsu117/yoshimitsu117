@@ -1,8 +1,8 @@
 ### Hi there 👋 this is Siddharth.</br>
 </br>
-Backend Developer hailing from Kolkata.</br>
+Backend Developer hailing from Gurugram.</br>
 </br>
-🔭 I’m currently working on integrating ElasticSearch with SpringBoot for incorporating faster search without any hassle.</br>
+🔭 I’m currently working on E2E Payment System</br>
 </br>
 💬 Would be willing to help on queries relating to stream api,Lambda Expressions,class,objects or anything related to Core Java.Apart from this would like to discuss on topics relating to microservices.</br>
 </br>
