@@ -1,113 +1,56 @@
-## Hi there 👋 I’m Siddharth
+# 👋 Hi, I’m Siddharth
 
-### AI Engineer | Backend Engineer | LLM & RAG Systems  
-📍 Gurugram, India
+**AI Engineer | GenAI • LLMs • RAG • AI Agents**
 
----
-
-I’m a backend engineer transitioning into **AI Engineering**, focused on building **production-ready AI systems** — not just notebooks or demos.
-
-My work lies at the intersection of:
-- Backend engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Scalable APIs & system design
+![AI](https://img.shields.io/badge/AI-GenAI%20%7C%20LLMs%20%7C%20RAG-7B3FE4?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Microservices-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Production%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-### 🔭 What I’m Currently Working On
-- Building **FastAPI-based AI services**
-- Developing **RAG systems** using PostgreSQL (pgvector)
-- Implementing **streaming LLM APIs** (local & cloud)
-- Applying backend engineering principles to **AI-first architectures**
+## 🧠 Profile
+
+AI Engineer with a strong focus on **production-grade Generative AI systems**.  
+Experienced in building **LLM-powered products**, **RAG pipelines**, and **agent-based AI workflows**, backed by solid **backend and cloud fundamentals**.
+
+Currently working at **Giesecke+Devrient India Pvt Limited** (ex-Xebia IT Architects).
 
 ---
 
-### 🧠 AI / ML Focus Areas
-- Large Language Models (LLMs)
-- Embeddings & semantic search
-- Retrieval-Augmented Generation (RAG)
-- Prompt engineering & structured outputs
-- AI agents & tool calling
-- Evaluation & reliability of GenAI systems
+## 🧩 Core Expertise
+
+- **Generative AI:** LLMs, prompt engineering, RAG, agentic workflows  
+- **AI Agents:** LangChain, LangGraph, AutoGen, tool calling  
+- **Deep Learning:** PyTorch, model fine-tuning & inference pipelines  
+- **Backend for AI:** FastAPI, async APIs, microservices  
+- **Retrieval:** Embeddings, vector databases, hybrid search  
+- **Production:** Docker, CI/CD, cloud-native deployments
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- Java
+**AI / ML**  
+Python • PyTorch • scikit-learn • LLM APIs  
 
-**Backend & APIs**
-- FastAPI
-- Spring Boot
-- REST & async APIs
-- Microservices architecture
+**GenAI & Agents**  
+LangChain • LangGraph • AutoGen • RAG architectures  
 
-**AI / ML**
-- LLMs (OpenAI, local inference)
-- RAG (pgvector, Chroma, PostgreSQL)
-- LangChain / LlamaIndex (used selectively)
-- Streaming inference
+**Backend & Data**  
+FastAPI • PostgreSQL • Vector DBs • REST  
 
-**Databases**
-- PostgreSQL
-- MySQL
-- Redis
-
-**Infra & Tooling**
-- Docker
-- Git
-- Linux
-- Basic observability & logging
+**Cloud & Ops**  
+Docker • CI/CD • Monitoring • Secure APIs  
 
 ---
 
-### 💬 Ask Me About
-- FastAPI & backend system design  
-- Building **RAG pipelines end-to-end**  
-- Streaming APIs for LLMs  
-- Microservices & scalability  
-- Transitioning from backend → AI Engineer  
+## 📊 GitHub Snapshot
+
+![Metrics](https://metrics.lecoq.io/yoshimitsu117?template=classic&config.timezone=Asia/Kolkata&languages=1&languages.layout=donut&isocalendar=1&stars=1&repositories=1&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/siddharth-majhi/">
-    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_linkedin_1807540.png" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/siddharthmajhy">
-    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/cc_icon.jpg" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/yoshimitsu_sword">
-    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/hr_icon.png" height="45" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshimitsu117&show_icons=true&theme=jolly)
-
----
-
-### 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimitsu117&layout=compact)
-
----
-
-### 🚀 Career Direction
-
-> Building real-world AI systems that are **scalable, reliable, and production-ready**, with strong backend foundations.
-
-Open to:
-- AI Engineer roles
-- Applied LLM Engineer roles
-- Backend + AI platform roles
+### ✨ Focus
+> Building **reliable, scalable, and production-ready AI systems**, not just demos.
