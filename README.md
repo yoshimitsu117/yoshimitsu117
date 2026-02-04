@@ -15,7 +15,7 @@
 AI Engineer with a strong focus on **production-grade Generative AI systems**.  
 Experienced in building **LLM-powered products**, **RAG pipelines**, and **agent-based AI workflows**, backed by solid **backend and cloud fundamentals**.
 
-Currently working at **Giesecke+Devrient India Pvt Limited** (ex-Xebia IT Architects).
+Currently working at **Giesecke+Devrient India Pvt Limited** ex- Yes Madam(Notion Online Solutions Pvt Limited).
 
 ---
 
