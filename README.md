@@ -1,78 +1,113 @@
-### Hi there 👋 this is Siddharth.</br>
-</br>
-Backend Developer hailing from Gurugram.</br>
-</br>
-🔭 I’m currently working on E2E Payment System</br>
-</br>
-💬 Would be willing to help on queries relating to stream api,Lambda Expressions,class,objects or anything related to Core Java.Apart from this would like to discuss on topics relating to microservices.</br>
-</br>
-📫 You can find me on: </br>
+## Hi there 👋 I’m Siddharth
 
-<a href="https://www.linkedin.com/in/siddharth-majhi/">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_linkedin_1807540.png"
-       alt="Linked In Link"
-       height="50"
-       width="50"
-      >
+### AI Engineer | Backend Engineer | LLM & RAG Systems  
+📍 Gurugram, India
+
+---
+
+I’m a backend engineer transitioning into **AI Engineering**, focused on building **production-ready AI systems** — not just notebooks or demos.
+
+My work lies at the intersection of:
+- Backend engineering
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Scalable APIs & system design
+
+---
+
+### 🔭 What I’m Currently Working On
+- Building **FastAPI-based AI services**
+- Developing **RAG systems** using PostgreSQL (pgvector)
+- Implementing **streaming LLM APIs** (local & cloud)
+- Applying backend engineering principles to **AI-first architectures**
+
+---
+
+### 🧠 AI / ML Focus Areas
+- Large Language Models (LLMs)
+- Embeddings & semantic search
+- Retrieval-Augmented Generation (RAG)
+- Prompt engineering & structured outputs
+- AI agents & tool calling
+- Evaluation & reliability of GenAI systems
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+
+**Backend & APIs**
+- FastAPI
+- Spring Boot
+- REST & async APIs
+- Microservices architecture
+
+**AI / ML**
+- LLMs (OpenAI, local inference)
+- RAG (pgvector, Chroma, PostgreSQL)
+- LangChain / LlamaIndex (used selectively)
+- Streaming inference
+
+**Databases**
+- PostgreSQL
+- MySQL
+- Redis
+
+**Infra & Tooling**
+- Docker
+- Git
+- Linux
+- Basic observability & logging
+
+---
+
+### 💬 Ask Me About
+- FastAPI & backend system design  
+- Building **RAG pipelines end-to-end**  
+- Streaming APIs for LLMs  
+- Microservices & scalability  
+- Transitioning from backend → AI Engineer  
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddharth-majhi/">
+    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_linkedin_1807540.png" height="45" />
   </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/siddharthmajhy">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/cc_icon.jpg"
-       alt="Codechef Link"
-       height="50"
-       width="50"
-      >
+    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/cc_icon.jpg" height="45" />
   </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/yoshimitsu_sword">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/hr_icon.png"
-       alt="Hackerrank Link"
-       height="50"
-       width="50"
-      >
+    <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/hr_icon.png" height="45" />
   </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://discord.com/channels/702952286871224350/702952286871224353">
-  <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/dicord_icon.png"
-       alt="Discord Link"
-       height="50"
-       width="50"
-      >
-  </a>
-</br>
-</br>
-</br>
-</br>
-</br>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshimitsu117&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-</br>
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimitsu117)]
-<!--
-**yoshimitsu117/yoshimitsu117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
--  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshimitsu117&show_icons=true&theme=jolly)
+
+---
+
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimitsu117&layout=compact)
+
+---
+
+### 🚀 Career Direction
+
+> Building real-world AI systems that are **scalable, reliable, and production-ready**, with strong backend foundations.
+
+Open to:
+- AI Engineer roles
+- Applied LLM Engineer roles
+- Backend + AI platform roles
